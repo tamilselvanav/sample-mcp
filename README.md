@@ -1,5 +1,5 @@
-# Name
-Sample mcp server
+## Name
+Sample mcp server - It's simple mcp server to two integers.
   
 ## Installation
 
